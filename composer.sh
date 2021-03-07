@@ -32,4 +32,8 @@ validate file_name.txt
 
 add file_name.txt
 
+del j WKSTN00100#JB00001
+
+del s WKSTN00100#SCHD00001
+
 replace file_name.txt
